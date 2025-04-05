@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "All"
+  },
+  {
+    "id": 2,
+    "name": "Fever"
+  },
+  {
+    "id": 3,
+    "name": "Cold fever"
+  },
+  {
+    "id": 4,
+    "name": "Doctors List"
+  },
+  {
+    "id": 5,
+    "name": "Kidney Disease"
+  },
+  {
+    "id": 6,
+    "name": "Liver Disease"
+  },
+  {
+    "id": 7,
+    "name": "Jaundice"
+  },
+  {
+    "id": 8,
+    "name": "Asthma"
+  },
+  {
+    "id": 9,
+    "name": "Psoriasis"
+  },
+  {
+    "id": 10,
+    "name": "Urinary Tract Disorders"
+  },
+  {
+    "id": 11,
+    "name": "Cold and cough"
+  },
+  {
+    "id": 12,
+    "name": "Eczema"
+  },
+  {
+    "id": 13,
+    "name": "Arthritis"
+  },
+  {
+    "id": 14,
+    "name": "Gastroenterology"
+  }
+]

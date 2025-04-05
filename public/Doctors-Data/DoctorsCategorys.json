@@ -1,0 +1,188 @@
+[
+  {
+    "id": 0,
+    "name": "All",
+    "subtitle": "All Specialties",
+    "image": "https://cdn-icons-png.flaticon.com/128/6791/6791180.png"
+  },
+  {
+    "id": 1,
+    "name": "Cardiologist",
+    "subtitle": "Heart Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/846/846988.png"
+  },
+  {
+    "id": 2,
+    "name": "Ophthalmologist",
+    "subtitle": "Eye Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/8735/8735004.png"
+  },
+  {
+    "id": 3,
+    "name": "General Surgeon",
+    "subtitle": "Surgical Care",
+    "image": "https://cdn-icons-png.flaticon.com/128/847/847023.png"
+  },
+  {
+    "id": 4,
+    "name": "Neurologist",
+    "subtitle": "Brain & Nerve Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/15054/15054390.png"
+  },
+  {
+    "id": 5,
+    "name": "ENT Specialist",
+    "subtitle": "Ear, Nose & Throat",
+    "image": "https://cdn-icons-png.flaticon.com/128/3142/3142099.png"
+  },
+  {
+    "id": 6,
+    "name": "Gynecologist",
+    "subtitle": "Women's Health",
+    "image": "https://cdn-icons-png.flaticon.com/128/846/846995.png"
+  },
+  {
+    "id": 7,
+    "name": "Medicine Specialist",
+    "subtitle": "General Medicine",
+    "image": "https://cdn-icons-png.flaticon.com/128/16430/16430379.png"
+  },
+  {
+    "id": 8,
+    "name": "Pediatrician",
+    "subtitle": "Child Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/2779/2779778.png"
+  },
+  {
+    "id": 9,
+    "name": "Orthopedic Surgeon",
+    "subtitle": "Bone & Joint Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/15096/15096420.png"
+  },
+  {
+    "id": 10,
+    "name": "Dermatologist",
+    "subtitle": "Skin Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/6025/6025105.png"
+  },
+  {
+    "id": 11,
+    "name": "Gastroenterologist",
+    "subtitle": "Digestive System",
+    "image": "https://cdn-icons-png.flaticon.com/128/846/846973.png"
+  },
+  {
+    "id": 12,
+    "name": "Psychiatrist",
+    "subtitle": "Mental Health",
+    "image": "https://cdn-icons-png.flaticon.com/128/8519/8519995.png"
+  },
+  {
+    "id": 13,
+    "name": "Urologist",
+    "subtitle": "Urinary System",
+    "image": "https://cdn-icons-png.flaticon.com/128/5684/5684610.png"
+  },
+  {
+    "id": 14,
+    "name": "Physical Medicine Specialist",
+    "subtitle": "Rehabilitation",
+    "image": "https://cdn-icons-png.flaticon.com/128/15305/15305460.png"
+  },
+  {
+    "id": 15,
+    "name": "Pulmonologist",
+    "subtitle": "Lung Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/3142/3142119.png"
+  },
+  {
+    "id": 16,
+    "name": "Endocrinologist",
+    "subtitle": "Hormone Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/15192/15192810.png"
+  },
+  {
+    "id": 17,
+    "name": "Nephrologist",
+    "subtitle": "Kidney Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/3142/3142113.png"
+  },
+  {
+    "id": 18,
+    "name": "Hematologist",
+    "subtitle": "Blood Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/15096/15096434.png"
+  },
+  {
+    "id": 19,
+    "name": "Oncologist",
+    "subtitle": "Cancer Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/3755/3755744.png"
+  },
+  {
+    "id": 20,
+    "name": "Rheumatologist",
+    "subtitle": "Joint Pain Specialist",
+    "image": "https://cdn-icons-png.flaticon.com/128/17942/17942012.png"
+  },
+  {
+    "id": 21,
+    "name": "Cardiac Surgeon",
+    "subtitle": "Heart Surgery",
+    "image": "https://cdn-icons-png.flaticon.com/128/3837/3837830.png"
+  },
+  {
+    "id": 22,
+    "name": "Plastic Surgeon",
+    "subtitle": "Reconstructive Surgery",
+    "image": "https://cdn-icons-png.flaticon.com/128/1533/1533518.png"
+  },
+  {
+    "id": 23,
+    "name": "Neurosurgeon",
+    "subtitle": "Brain Surgery",
+    "image": "https://cdn-icons-png.flaticon.com/128/6025/6025099.png"
+  },
+  {
+    "id": 24,
+    "name": "GI Surgeon",
+    "subtitle": "Digestive Surgery",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZb_HP7Ta75FzzLbMPEO1CN_1QenyGddCFLQ&s"
+  },
+  {
+    "id": 25,
+    "name": "Thoracic Surgeon",
+    "subtitle": "Chest Surgery",
+    "image": "https://t4.ftcdn.net/jpg/11/96/33/83/360_F_1196338377_ltehVM34umSzAnESWDHNionHz2oQ2WjA.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Pediatric Surgeon",
+    "subtitle": "Child Surgery",
+    "image": "https://static.vecteezy.com/system/resources/previews/032/998/146/non_2x/pediatric-surgeon-blue-gradient-concept-icon-surgical-procedure-operating-room-child-patient-children-surgery-medical-doctor-abstract-idea-thin-line-illustration-isolated-outline-drawing-vector.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Vascular Surgeon",
+    "subtitle": "Blood Vessel Surgery",
+    "image": "https://cdn-icons-png.flaticon.com/128/4807/4807823.png"
+  },
+  {
+    "id": 28,
+    "name": "Surgical Oncologist",
+    "subtitle": "Cancer Surgery",
+    "image": "https://media.istockphoto.com/id/1227531901/vector/surgical-oncology-concept-icon-surgery-to-remove-tumor-procedure-for-treatment-operation.jpg?s=612x612&w=0&k=20&c=asUyF7N0Kfb5Xvg7Hcajd-g3JXy1TBuLttgNc7QB4Gc="
+  },
+  {
+    "id": 29,
+    "name": "Colorectal Surgeon",
+    "subtitle": "Bowel Specialist",
+    "image": "https://static.vecteezy.com/system/resources/previews/052/844/062/non_2x/bowel-resection-surgery-doctor-line-icon-illustration-vector.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Breast Surgeon",
+    "subtitle": "Breast Health",
+    "image": "https://cdn-icons-png.flaticon.com/128/3273/3273086.png"
+  }
+]

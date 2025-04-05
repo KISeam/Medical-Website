@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "image": "https://continentalhospitals.com/uploads/mceu_86916390911724307755216.jpg",
+    "title": "Understanding Fever: Causes and Treatments",
+    "subtitle": "A comprehensive guide to fever symptoms and management",
+    "description": "Fever is a common medical sign characterized by an elevation of body temperature above the normal range. It's typically a response to infection, inflammation, or other diseases. This article explores the various causes of fever, from common viral infections to more serious conditions. We'll discuss how to accurately measure body temperature, when to seek medical attention, and effective home remedies. The article also covers fever in different age groups, with special attention to pediatric fever. You'll learn about fever-reducing medications, their proper use, and situations where fever might actually be beneficial in fighting infection. We'll also address common myths about fever treatment and provide evidence-based recommendations for management.",
+    "date": "15-03-2023",
+    "category": "Fever"
+  },
+  {
+    "id": 2,
+    "image": "https://img.freepik.com/free-photo/man-measuring-temperature_23-2147934337.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Cold and Fever: Understanding the Connection",
+    "subtitle": "How respiratory infections lead to fever and how to cope",
+    "description": "Cold-related fevers are among the most common health complaints worldwide. This article examines why respiratory infections often cause elevated body temperature and how this immune response helps fight viruses. We detail the typical progression of cold symptoms accompanied by fever, including sore throat, nasal congestion, and fatigue. The piece compares common cold fever with influenza fever, helping readers distinguish between the two. Practical advice includes hydration strategies, rest recommendations, and over-the-counter medication guides. We also explore when a cold fever might indicate a secondary bacterial infection requiring antibiotics. Special sections address fever management in children and elderly populations, along with warning signs that warrant immediate medical consultation.",
+    "date": "22-11-2022",
+    "category": "Cold fever"
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/free-photo/medium-shot-doctors-discussing_23-2149355039.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Choosing the Right Doctor: A Patient's Guide",
+    "subtitle": "Factors to consider when selecting healthcare providers",
+    "description": "Finding the right doctor is crucial for maintaining good health, but the process can be overwhelming. This comprehensive guide walks through all considerations when choosing a physician, from specialties and credentials to bedside manner and communication style. We compare different types of medical practitioners - primary care physicians versus specialists - and when you might need each. The article includes practical tips for researching doctors' qualifications, checking malpractice history, and evaluating hospital affiliations. Patient testimonials and word-of-mouth recommendations are weighed against objective measures of quality care. We also cover logistical factors like insurance acceptance, office location, and appointment availability. Special attention is given to building a long-term patient-doctor relationship based on trust and open communication.",
+    "date": "05-09-2023",
+    "category": "Doctors List"
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/premium-photo/urologist-doctor-makes-express-analysis-urine-using-indicator-paper-closeup_587895-2249.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Kidney Disease: Prevention and Early Detection",
+    "subtitle": "Recognizing the silent symptoms of renal impairment",
+    "description": "Kidney disease often progresses silently until significant damage has occurred. This in-depth article illuminates the risk factors, early warning signs, and preventive measures for maintaining renal health. We explain how kidneys function and what happens when they begin to fail, covering both chronic kidney disease and acute kidney injury. The piece details common causes including diabetes, hypertension, and autoimmune conditions. Readers will learn about diagnostic tests like GFR measurements and urine albumin checks that can detect problems early. Dietary recommendations for kidney health are provided, along with lifestyle modifications that can slow disease progression. We also explore treatment options at different stages, from medication management to dialysis and transplantation. Special sections address kidney health in high-risk populations and emerging research in nephrology.",
+    "date": "18-07-2023",
+    "category": "Kidney Disease"
+  },
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/premium-photo/mockup-liver-work-desk-doctor_132310-9600.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Liver Disease: Types, Symptoms and Modern Treatments",
+    "subtitle": "Comprehensive look at hepatic conditions and management options",
+    "description": "The liver performs hundreds of vital functions, making liver disease particularly impactful on overall health. This article surveys the spectrum of hepatic disorders from fatty liver disease to cirrhosis and hepatocellular carcinoma. We explain how alcohol, viruses, medications, and metabolic disorders can all damage this crucial organ. Readers will learn to recognize subtle symptoms like fatigue, itching, and mild abdominal discomfort that might indicate liver trouble. The piece covers diagnostic approaches including liver function tests, imaging studies, and sometimes biopsy. Current treatment modalities are explored, from lifestyle interventions for early-stage fatty liver to advanced therapies for end-stage disease. We highlight promising research in liver regeneration and artificial liver support systems. Prevention strategies including vaccination, safe alcohol consumption, and weight management are emphasized throughout.",
+    "date": "30-01-2023",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 6,
+    "image": "https://img.freepik.com/premium-photo/feeling-congested-cropped-shot-young-man-suffering-with-allergies_590464-51202.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Jaundice: When Yellow Signals Trouble",
+    "subtitle": "Decoding the causes and implications of yellow skin and eyes",
+    "description": "Jaundice, characterized by yellow discoloration of skin and eyes, is a symptom rather than a disease itself. This article explores the multiple conditions that can cause bilirubin buildup, from benign newborn jaundice to serious liver disorders. We explain the three main categories of jaundice - pre-hepatic, hepatic, and post-hepatic - and their distinct causes. Readers will learn how doctors determine the underlying problem through blood tests, imaging, and sometimes invasive procedures. The piece covers treatment approaches tailored to specific causes, whether it's phototherapy for infants, stone removal for gallblockades, or antiviral therapy for hepatitis. Special attention is given to situations requiring urgent medical intervention. We also discuss less common causes like genetic conditions and drug reactions. Practical advice helps readers monitor symptoms and understand when yellowing warrants immediate evaluation.",
+    "date": "12-05-2022",
+    "category": "Jaundice"
+  },
+  {
+    "id": 7,
+    "image": "https://img.freepik.com/free-photo/lifestyle-girl-with-inhalation-with-nebulizer_52683-121058.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Asthma Management in the Modern Age",
+    "subtitle": "New approaches to controlling this chronic respiratory condition",
+    "description": "Asthma affects millions worldwide, but modern medicine offers more control options than ever before. This comprehensive guide covers current understanding of asthma's complex causes, including genetic predisposition and environmental triggers. We detail the latest in diagnostic techniques beyond basic spirometry, such as fractional exhaled nitric oxide tests. The article explains controller versus rescue medications, with emphasis on proper inhaler technique that many patients get wrong. Emerging biologic therapies for severe asthma are explored alongside traditional treatments. Readers will find practical strategies for identifying and avoiding personal triggers, from allergens to exercise to weather changes. We include special sections on childhood asthma, occupational asthma, and exercise-induced bronchoconstriction. The piece concludes with an outlook on future treatments and how smart technology is changing asthma monitoring through connected inhalers and apps.",
+    "date": "08-04-2023",
+    "category": "Asthma"
+  },
+  {
+    "id": 8,
+    "image": "https://img.freepik.com/free-photo/hands-patient-suffering-from-psoriasis_23-2149329632.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Psoriasis: More Than Skin Deep",
+    "subtitle": "Understanding the systemic nature of this chronic skin condition",
+    "description": "Psoriasis is often misunderstood as merely a cosmetic concern, when in reality it's a complex immune-mediated disease with systemic implications. This article delves into the latest research on psoriasis pathogenesis, including genetic factors and immune system dysregulation. We describe the various clinical presentations from plaque psoriasis to guttate, inverse, and pustular variants. Beyond skin symptoms, the piece explores associated conditions like psoriatic arthritis, cardiovascular risks, and metabolic syndrome. Current treatment options are comprehensively reviewed, from topical therapies to phototherapy and systemic medications including biologics. Readers will learn about lifestyle factors that can improve or exacerbate psoriasis, including stress management, diet, and smoking cessation. We also address the psychological impact of visible skin lesions and strategies for coping with social stigma. The article concludes with promising research directions that may lead to more targeted therapies.",
+    "date": "21-10-2022",
+    "category": "Psoriasis"
+  },
+  {
+    "id": 9,
+    "image": "https://img.freepik.com/free-photo/asian-boy-sitting-toilet-bowl-holding-tissue-paper-health-problem-concept_1150-6594.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Urinary Tract Disorders: From UTIs to Chronic Conditions",
+    "subtitle": "A complete overview of urinary system ailments and treatments",
+    "description": "Urinary tract disorders range from common infections to complex chronic conditions that significantly impact quality of life. This article provides a thorough examination of the urinary system's anatomy and function before exploring various pathologies. We cover uncomplicated UTIs, recurrent infections, interstitial cystitis, overactive bladder, and urinary incontinence in depth. Readers will learn about diagnostic procedures from simple dipstick tests to advanced urodynamic studies. Treatment options are discussed for each condition, including behavioral therapies, medications, and surgical interventions. The piece emphasizes prevention strategies for UTIs, proper hydration, and pelvic floor health. Special sections address gender differences in urinary disorders and age-related changes in urinary function. We also explore less common conditions like neurogenic bladder and urinary fistulas. Practical advice helps readers communicate symptoms effectively with healthcare providers and understand when specialist referral is warranted.",
+    "date": "03-02-2023",
+    "category": "Urinary Tract Disorders"
+  },
+  {
+    "id": 10,
+    "image": "https://img.freepik.com/premium-photo/healthcare-people-medicine-concept-ill-man-with-flu-coughing-drinking-hot-tea-from-cup-home_380164-117714.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Cold and Cough: Natural Remedies and Medical Treatments",
+    "subtitle": "Evidence-based approaches to managing respiratory symptoms",
+    "description": "Cold and cough season affects nearly everyone, but not all remedies are created equal. This article separates fact from fiction in treating these common symptoms. We examine the virology behind colds and why coughs often outlast other symptoms. Readers will learn about clinically proven remedies versus popular but ineffective treatments. The piece covers safe use of over-the-counter medications, including combinations to avoid and age-specific recommendations. Natural approaches like honey, steam inhalation, and saline irrigation are evaluated based on scientific evidence. We discuss when a cough might indicate something more serious than a cold, like asthma, GERD, or pertussis. Special sections address cough prevention, immune-boosting strategies with limited evidence, and managing persistent post-viral coughs. The article also reviews prescription options for specific situations and why antibiotics aren't appropriate for viral illnesses.",
+    "date": "17-12-2022",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 11,
+    "image": "https://img.freepik.com/free-photo/applying-moisturizer-skin-with-psoriasis_181624-59989.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Eczema: Managing This Chronic Skin Condition",
+    "subtitle": "Comprehensive strategies for controlling atopic dermatitis",
+    "description": "Eczema (atopic dermatitis) is a chronic, inflammatory skin condition that affects children and adults worldwide. This article explores the complex interplay of genetic, immune, and environmental factors that contribute to eczema development. We describe the characteristic symptoms - dry, itchy skin that can become red, cracked, and infected - and how they vary by age. Readers will learn about the atopic march and connections between eczema, asthma, and allergies. The piece provides detailed skin care recommendations, from bathing practices to moisturizer selection and application techniques. We review medical treatments including topical steroids, calcineurin inhibitors, and newer systemic therapies. Trigger identification and avoidance are covered, along with strategies for managing itch-scratch cycles. Special sections address eczema in different skin tones, sleep disturbance management, and coping with the condition's psychological impact. The article concludes with emerging research that may lead to more targeted treatments.",
+    "date": "29-08-2023",
+    "category": "Eczema"
+  },
+  {
+    "id": 12,
+    "image": "https://img.freepik.com/free-photo/arm-treatment_1098-16885.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Arthritis: Types, Treatments and Lifestyle Management",
+    "subtitle": "Navigating joint pain and inflammation at any age",
+    "description": "Arthritis encompasses over 100 conditions affecting joints and connective tissue, with osteoarthritis and rheumatoid arthritis being most common. This article provides a detailed comparison of various arthritis types, their distinct causes, and characteristic symptoms. Readers will learn how arthritis is diagnosed through physical examination, blood tests, and imaging studies. We explore the full spectrum of treatment options from physical therapy and pain management to disease-modifying drugs and joint replacement surgery. The piece emphasizes lifestyle approaches that can significantly impact disease progression, including weight management, exercise modifications, and assistive devices. Special sections address arthritis in young adults, workplace accommodations, and complementary therapies with evidence of benefit. We also cover emerging research in biologic medications and personalized medicine approaches. Practical advice helps readers communicate effectively with healthcare providers about their symptoms and treatment goals while managing expectations about chronic condition management.",
+    "date": "14-06-2023",
+    "category": "Arthritis"
+  },
+  {
+    "id": 13,
+    "image": "https://img.freepik.com/premium-photo/male-patient-appointment-with-gastroenterologist_506452-23163.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Gastroenterology: Common Digestive Disorders Explained",
+    "subtitle": "Understanding your gut health and when to seek specialist care",
+    "description": "Gastroenterology covers a wide range of digestive system disorders that affect millions globally. This article provides an overview of common GI conditions including GERD, peptic ulcers, IBS, IBD (Crohn's disease and ulcerative colitis), celiac disease, and functional dyspepsia. We explain how the digestive system normally works and what goes wrong in these various conditions. Readers will learn about diagnostic procedures from endoscopy to breath tests and stool analysis. The piece covers treatment approaches ranging from dietary modifications to advanced biologic therapies. We emphasize red flag symptoms that warrant prompt medical attention, such as unexplained weight loss or bleeding. Special sections address gut-brain axis connections, microbiome research, and lifestyle factors that impact digestive health. Practical advice helps readers navigate initial evaluations with primary care providers and understand when gastroenterology referral is appropriate. The article concludes with preventive strategies and screening recommendations for various age groups.",
+    "date": "07-11-2022",
+    "category": "Gastroenterology"
+  },
+  {
+    "id": 14,
+    "image": "https://img.freepik.com/free-photo/healthcare-professional-checking-diabetic-patient-glucose-levels_482257-113599.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Diabetes Management: From Diagnosis to Daily Care",
+    "subtitle": "Comprehensive strategies for living well with diabetes",
+    "description": "Diabetes affects millions worldwide and requires careful daily management. This article explores the differences between Type 1 and Type 2 diabetes, along with other less common forms. We cover diagnostic criteria, early warning signs, and risk factors for developing diabetes. Readers will learn about blood glucose monitoring techniques, from traditional finger sticks to continuous glucose monitors. The piece details medication options including oral hypoglycemics and various insulin regimens. Nutritional guidance focuses on carbohydrate counting and meal planning strategies that maintain stable blood sugar. We emphasize the importance of regular exercise and weight management in diabetes control. Special sections address diabetes complications prevention, foot care essentials, and managing diabetes during illness. The article concludes with technological advances like closed-loop insulin delivery systems and promising research directions.",
+    "date": "22-02-2023",
+    "category": "Kidney Disease"
+  },
+  {
+    "id": 15,
+    "image": "https://img.freepik.com/premium-photo/doctor-measures-pressure-young-man-with-headache_85574-12742.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Hypertension: The Silent Killer",
+    "subtitle": "Understanding and controlling high blood pressure",
+    "description": "Often called the silent killer because it rarely causes symptoms, hypertension affects nearly half of adults. This article explains blood pressure readings, what constitutes normal versus elevated levels, and how hypertension damages organs over time. We explore primary and secondary causes, including lifestyle factors and underlying medical conditions. Readers will learn about accurate blood pressure measurement techniques and the importance of regular monitoring. Treatment approaches are covered comprehensively, from DASH diet and exercise to various classes of antihypertensive medications. The piece addresses resistant hypertension and when specialist referral is needed. Special sections focus on hypertension in specific populations like pregnant women and the elderly. We provide practical tips for medication adherence and lifestyle modifications that can significantly lower blood pressure. The article concludes with emerging therapies and devices for difficult-to-control cases.",
+    "date": "09-05-2023",
+    "category": "Kidney Disease"
+  },
+  {
+    "id": 16,
+    "image": "https://img.freepik.com/premium-photo/stressed-man-casual-linen-shirt-glasses-grasps-his-head-frustration-headache_116547-90574.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Migraine: Beyond Just a Headache",
+    "subtitle": "Understanding the complex neurology of migraine disorders",
+    "description": "Migraines are severe neurological events affecting 1 in 7 people globally. This article explores the latest understanding of migraine pathophysiology, including cortical spreading depression and trigeminal nerve involvement. We detail the four potential phases of a migraine attack: prodrome, aura, headache, and postdrome. Readers will learn to identify various migraine triggers from hormonal changes to weather patterns and specific foods. The piece covers both acute treatments (including new CGRP antagonists) and preventive strategies. We explain when imaging or specialist referral is warranted and how migraines differ from other headache types. Special sections address menstrual migraines, vestibular migraines, and hemiplegic migraines. Lifestyle modifications, complementary therapies, and emerging treatments are all evaluated. Practical advice helps readers create a migraine action plan and track triggers effectively.",
+    "date": "18-09-2022",
+    "category": "Doctors List"
+  },
+  {
+    "id": 17,
+    "image": "https://img.freepik.com/premium-photo/woman-student-headache-stress-burnout-anxiety-from-overworked-studying-campus-stressed-female-person-university-learner-suffering-bad-head-pain-strain-ache-with-study-books_590464-188226.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Anemia: Causes, Symptoms and Solutions",
+    "subtitle": "Addressing the global problem of low hemoglobin",
+    "description": "Anemia affects nearly 2 billion people worldwide, with iron deficiency being the most common cause. This article explains how red blood cells function and what happens when their numbers or quality decline. We detail various types of anemia including iron-deficiency, vitamin deficiency (B12/folate), hemolytic, and anemia of chronic disease. Readers will learn to recognize symptoms like fatigue, pallor, and shortness of breath that might indicate anemia. Diagnostic tests from complete blood counts to more specialized evaluations are explained. Treatment approaches are tailored to specific causes, from oral iron supplementation to vitamin injections or even blood transfusions in severe cases. The piece emphasizes dietary strategies for preventing nutritional anemias and managing underlying conditions. Special sections address anemia in pregnancy, childhood anemia, and athletes. We also explore less common genetic anemias and when to suspect them.",
+    "date": "27-03-2023",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 18,
+    "image": "https://img.freepik.com/premium-photo/midsection-woman-touching-aching-throat-against-gray-background_1048944-23365818.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Thyroid Disorders: From Hypothyroidism to Graves' Disease",
+    "subtitle": "Understanding the master regulator of metabolism",
+    "description": "The thyroid gland influences nearly every organ system, making thyroid disorders particularly impactful. This article compares hypothyroidism and hyperthyroidism, their diverse causes, and characteristic symptoms. We explain thyroid function tests and how to interpret TSH, T3, and T4 levels. Readers will learn about autoimmune conditions like Hashimoto's thyroiditis and Graves' disease that commonly affect thyroid function. Treatment options are covered in depth, from levothyroxine replacement to antithyroid medications and radioiodine therapy. The piece addresses thyroid nodules and cancer screening, including when fine needle aspiration is recommended. Special sections focus on thyroid disorders during pregnancy and in elderly patients. We also explore controversial areas like subclinical hypothyroidism management and alternative thyroid treatments. Practical advice helps readers recognize potential thyroid symptoms and understand the importance of proper medication timing and follow-up testing.",
+    "date": "11-07-2022",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 19,
+    "image": "https://img.freepik.com/premium-photo/girl-coughing-into-napking-having-flu-walking-outside-rainy-day-with-umbrella_341862-2079.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Allergies: From Seasonal to Life-Threatening",
+    "subtitle": "Comprehensive guide to allergic conditions and management",
+    "description": "Allergic diseases range from seasonal hay fever to potentially fatal anaphylaxis. This article explains the immunology behind allergic reactions and why some people develop sensitivities. We cover common environmental allergens like pollen, dust mites, and animal dander, along with food and drug allergies. Readers will learn about allergy testing methods from skin prick tests to component-resolved diagnostics. Treatment options include avoidance strategies, antihistamines, nasal steroids, and immunotherapy (allergy shots or tablets). The piece provides detailed guidance on recognizing and managing anaphylaxis, including proper epinephrine auto-injector use. Special sections address eczema-asthma-allergy triad, oral allergy syndrome, and emerging food allergies in adults. We also explore less common conditions like mast cell disorders and eosinophilic esophagitis. Practical advice helps readers create allergy action plans and navigate daily life with allergies safely.",
+    "date": "04-12-2023",
+    "category": "Asthma"
+  },
+  {
+    "id": 20,
+    "image": "https://img.freepik.com/premium-photo/handsome-gray-haired-senior-man-injured-knee-leg-sport-health-care-concept_174475-2629.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Osteoporosis: Protecting Your Bone Health",
+    "subtitle": "Prevention and treatment of bone density loss",
+    "description": "Often called a silent disease until fractures occur, osteoporosis affects millions worldwide. This article explains how bones constantly remodel and what disrupts this balance leading to porosity. We detail risk factors including age, gender, family history, and certain medications like steroids. Readers will learn about bone density testing (DEXA scans) and what T-scores mean. The piece covers both pharmacological treatments (bisphosphonates, biologics) and essential lifestyle approaches like calcium/vitamin D nutrition and weight-bearing exercise. We address fall prevention strategies and home modifications to reduce fracture risk. Special sections focus on osteoporosis in men, steroid-induced bone loss, and vertebral fracture recognition. The article also explores controversies around long-term medication use and drug holidays. Practical advice helps readers strengthen bones at any age and understand when to seek bone health evaluation.",
+    "date": "23-10-2023",
+    "category": "Arthritis"
+  },
+  {
+    "id": 21,
+    "image": "https://img.freepik.com/free-photo/doctors-using-transparent-tablet-with-hologram-medical-technology_53876-97972.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Pneumonia: Recognizing and Treating Lung Infections",
+    "subtitle": "Understanding the different types of pneumonia and their treatments",
+    "description": "Pneumonia is a serious lung infection that can be caused by bacteria, viruses, or fungi. This article explains the differences between community-acquired and hospital-acquired pneumonia, along with their characteristic symptoms. Readers will learn about diagnostic methods including chest X-rays and sputum tests. We cover antibiotic treatments for bacterial pneumonia and supportive care for viral cases. The piece emphasizes prevention through vaccination (pneumococcal and flu vaccines) and lifestyle factors that strengthen lung immunity. Special sections address pneumonia risks in children, elderly patients, and those with compromised immune systems.",
+    "date": "12-09-2023",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 22,
+    "image": "https://img.freepik.com/free-vector/informative-poster-common-symptoms-hepatitis-b_1308-130118.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Hepatitis: Types A Through E Explained",
+    "subtitle": "Complete guide to viral hepatitis infections and prevention",
+    "description": "Viral hepatitis comes in multiple forms, each with distinct transmission methods and health impacts. This article compares hepatitis A (foodborne), B (blood/body fluids), C (blood), D (requires B), and E (waterborne). We explain acute versus chronic infections and how they affect liver function differently. Readers will learn about hepatitis symptoms, diagnostic tests, and modern treatments including antiviral medications. The piece emphasizes prevention through vaccination (available for A and B), safe injection practices, and food/water safety. Special sections focus on hepatitis in travelers, pregnant women, and healthcare workers.",
+    "date": "28-07-2023",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 23,
+    "image": "https://img.freepik.com/free-vector/process-breathing-explained_1308-55066.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Bronchitis: Acute vs Chronic Forms",
+    "subtitle": "How to tell if your cough is more than just a cold",
+    "description": "Bronchitis involves inflammation of the bronchial tubes and comes in both temporary (acute) and long-term (chronic) forms. This article explains how acute bronchitis often follows colds while chronic bronchitis is typically smoking-related. Readers will learn to distinguish between viral and bacterial causes and when antibiotics might be appropriate. We cover symptom management strategies including humidifiers, hydration, and cough medications. The piece provides clear guidance on when to seek medical attention versus home care. Special sections address bronchitis in smokers, asthmatics, and the elderly population.",
+    "date": "15-05-2023",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 24,
+    "image": "https://img.freepik.com/premium-vector/kidney-failure_610956-1576.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Nephritis: When Kidneys Become Inflamed",
+    "subtitle": "Understanding glomerular diseases and their management",
+    "description": "Nephritis refers to kidney inflammation that can impair filtering function. This article explores various forms including glomerulonephritis and interstitial nephritis. We explain how infections, autoimmune diseases, and medications can trigger kidney inflammation. Readers will learn about telltale signs like blood/protein in urine, swelling, and hypertension. The piece covers diagnostic urine tests, blood work, and sometimes kidney biopsies. Treatment approaches range from antibiotics for infection-related cases to immunosuppressants for autoimmune causes. Special sections focus on nephritis in children (post-streptococcal) and medication-induced cases.",
+    "date": "03-11-2023",
+    "category": "Kidney Disease"
+  },
+  {
+    "id": 25,
+    "image": "https://img.freepik.com/premium-photo/use-emollient-dry-flaky-skin-as-treatment-psoriasis-eczema-other-dry-skin-diseases-look-through-magnifying-glass_544249-6205.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Contact Dermatitis: Identifying Skin Irritants",
+    "subtitle": "How to recognize and avoid common skin allergens",
+    "description": "Contact dermatitis causes red, itchy skin when it reacts to certain substances. This article differentiates between irritant contact dermatitis (from harsh chemicals) and allergic contact dermatitis (immune response). Readers will learn about common triggers like nickel, fragrances, preservatives, and plants (poison ivy). We explain patch testing procedures to identify specific allergies. The piece provides practical advice on skin care during flare-ups and how to create an allergen-free environment. Special sections address occupational dermatitis risks and hand dermatitis from frequent washing.",
+    "date": "22-08-2023",
+    "category": "Eczema"
+  },
+  {
+    "id": 26,
+    "image": "https://img.freepik.com/free-photo/young-woman-wiping-her-nose_179666-254.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Sinusitis: Relief for Stuffy, Painful Sinuses",
+    "subtitle": "Acute and chronic sinus infection management",
+    "description": "Sinusitis causes facial pain, congestion, and thick nasal discharge that can last weeks. This article explains how viral, bacterial, and fungal infections differ in their presentation and treatment. Readers will learn about imaging options when diagnosis is unclear and when antibiotics are warranted. We cover effective nasal irrigation techniques, decongestant use, and steroid nasal sprays. The piece provides guidance on recognizing complications that require urgent care. Special sections address chronic sinusitis management, allergy-related sinus issues, and surgical options for recurrent cases.",
+    "date": "09-04-2023",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 27,
+    "image": "https://img.freepik.com/free-vector/understanding-bunions-their-effects_1308-169759.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Gout: More Than Just Big Toe Pain",
+    "subtitle": "Understanding and managing uric acid crystal arthritis",
+    "description": "Gout is a painful form of inflammatory arthritis caused by uric acid crystal deposits. This article explains how purine metabolism leads to hyperuricemia and acute gout attacks. Readers will learn about risk factors including diet, obesity, kidney function, and genetics. We cover diagnostic methods from joint fluid analysis to ultrasound findings. Treatment approaches include NSAIDs for acute attacks and urate-lowering therapy for chronic management. The piece provides detailed dietary recommendations and lifestyle modifications to prevent flares. Special sections address gout in women, tophi formation, and associated kidney stone risks.",
+    "date": "17-12-2023",
+    "category": "Arthritis"
+  },
+  {
+    "id": 28,
+    "image": "https://img.freepik.com/free-photo/caucasian-woman-having-painful-period-cramps_53876-14747.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Cystitis: Bladder Infection Essentials",
+    "subtitle": "Preventing and treating painful urinary tract infections",
+    "description": "Cystitis (bladder infection) is one of the most common bacterial infections, especially in women. This article explains why female anatomy increases UTI risk and how sexual activity, menopause, and birth control methods affect susceptibility. Readers will learn classic symptoms like burning urination and urgency versus concerning signs like fever or back pain. We cover urine testing methods and antibiotic treatment options. The piece emphasizes prevention through hydration, urination habits, and possibly cranberry products. Special sections address recurrent UTIs, honeymoon cystitis, and catheter-associated infections.",
+    "date": "05-10-2023",
+    "category": "Urinary Tract Disorders"
+  },
+  {
+    "id": 29,
+    "image": "https://img.freepik.com/premium-photo/rhinitis-medicine-healthcare-concept-sick-indian-man-blanket-using-nasal-spray-home_255667-64825.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Rhinitis: When Your Nose Won't Stop Running",
+    "subtitle": "Allergic and non-allergic nasal inflammation",
+    "description": "Rhinitis causes sneezing, congestion, and nasal drip that can significantly impact quality of life. This article differentiates between allergic rhinitis (hay fever) and non-allergic forms. Readers will learn about allergy testing options and environmental control measures. We explain medication approaches including antihistamines, nasal corticosteroids, and immunotherapy. The piece covers special considerations for pregnancy rhinitis and medication-induced cases. Practical advice helps readers identify triggers and implement effective symptom relief strategies.",
+    "date": "30-01-2024",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 30,
+    "image": "https://img.freepik.com/free-vector/stages-liver-disease_1308-46524.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Cirrhosis: The Scarred Liver",
+    "subtitle": "Managing end-stage liver disease and its complications",
+    "description": "Cirrhosis represents advanced scarring of the liver with significant functional impairment. This article explains how chronic alcohol use, hepatitis, and fatty liver disease progress to cirrhosis. Readers will learn about complications like portal hypertension, ascites, and hepatic encephalopathy. We cover diagnostic imaging findings and lab abnormalities characteristic of decompensated liver disease. Treatment approaches focus on slowing progression, managing symptoms, and preventing acute decompensation. The piece provides guidance on nutrition, medication safety, and when transplantation evaluation is needed. Special sections address alcoholic hepatitis reversal and screening for liver cancer.",
+    "date": "14-03-2024",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 31,
+    "image": "https://img.freepik.com/free-photo/medium-shot-guy-with-hands-his-chin_23-2148227947.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Tonsillitis: When Your Throat Needs Attention",
+    "subtitle": "Recognizing and treating inflamed tonsils",
+    "description": "Tonsillitis causes painful swallowing, fever, and swollen lymph nodes that can make everyday life difficult. This article explains the differences between viral and bacterial tonsillitis, including the characteristic signs of strep throat. Readers will learn about rapid strep tests and throat cultures used for diagnosis. We cover treatment options from home remedies to antibiotics, and discuss the current guidelines for tonsillectomy surgery. The piece provides practical advice on pain management, hydration, and when to seek emergency care for breathing difficulties. Special sections address recurrent tonsillitis in children and complications like peritonsillar abscess.",
+    "date": "22-04-2024",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 32,
+    "image": "https://img.freepik.com/free-photo/angry-young-man-suffering-stomachache_1149-1848.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Gallstones: Silent Stones and Painful Attacks",
+    "subtitle": "Understanding biliary colic and gallbladder disease",
+    "description": "Gallstones affect millions, often without symptoms until they block bile ducts causing intense pain. This article explains how cholesterol imbalances lead to stone formation and risk factors like rapid weight loss and estrogen use. Readers will learn to recognize classic gallbladder attack symptoms including right upper quadrant pain after fatty meals. We cover diagnostic ultrasound findings and advanced imaging when complications are suspected. Treatment approaches range from watchful waiting for silent stones to laparoscopic cholecystectomy for symptomatic cases. The piece provides dietary recommendations to minimize symptoms while awaiting surgery. Special sections address uncommon but serious complications like cholangitis and pancreatitis.",
+    "date": "08-03-2024",
+    "category": "Liver Disease"
+  },
+  {
+    "id": 33,
+    "image": "https://img.freepik.com/free-photo/pain-stomache-old-senior-asian-grandfather-patient-uniform-suffer-from-body-problem-health-ideas-concept_609648-2289.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Kidney Stones: Surviving the Unbearable Pain",
+    "subtitle": "Prevention and treatment of renal calculi",
+    "description": "Kidney stones cause some of the most severe pain imaginable when they obstruct the urinary tract. This article explains the different stone types (calcium oxalate, uric acid, struvite, cystine) and their distinct causes. Readers will learn about risk factors like dehydration, high-sodium diets, and certain medical conditions. We cover diagnostic imaging options and the 'stone strainer' method for collection. Treatment approaches range from pain control and hydration for small stones to surgical interventions for large obstructions. The piece provides detailed dietary prevention strategies tailored to stone type. Special sections address stones in children, pregnant women, and those with solitary kidneys.",
+    "date": "19-05-2024",
+    "category": "Kidney Disease"
+  },
+  {
+    "id": 34,
+    "image": "https://img.freepik.com/free-photo/young-female-green-shirt-touching-skin-her-neck-looking-relaxed-front-view_176474-66498.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Laryngitis: When You Lose Your Voice",
+    "subtitle": "Causes and care for vocal cord inflammation",
+    "description": "Laryngitis leaves patients hoarse or completely voiceless due to inflamed vocal cords. This article explains acute viral causes versus chronic forms from overuse, reflux, or smoking. Readers will learn proper vocal hygiene techniques and when complete voice rest is necessary. We cover diagnostic laryngoscopy findings and concerning symptoms that suggest non-infectious causes. Treatment approaches include hydration, steam inhalation, and managing underlying conditions like GERD. The piece provides special advice for professional voice users like teachers and singers. Special sections address pediatric laryngitis and differentiating it from more serious croup.",
+    "date": "12-02-2024",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 35,
+    "image": "https://img.freepik.com/free-photo/close-up-senior-man-using-cream_23-2149137900.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Psoriatic Arthritis: When Skin and Joints Suffer",
+    "subtitle": "The dual challenge of psoriasis and arthritis",
+    "description": "Psoriatic arthritis combines skin plaques with joint inflammation in a unique autoimmune pattern. This article explains how nail changes, dactylitis (sausage digits), and enthesitis distinguish it from other arthritides. Readers will learn about the varied presentation from mild oligoarthritis to severe destructive forms. We cover diagnostic challenges and the role of imaging like ultrasound and MRI. Treatment approaches include NSAIDs, DMARDs, and biologics that target both skin and joints. The piece provides guidance on protecting joints while managing skin symptoms. Special sections address the metabolic syndrome connection and ocular involvement (uveitis) risks.",
+    "date": "27-06-2024",
+    "category": "Psoriasis"
+  },
+  {
+    "id": 36,
+    "image": "https://img.freepik.com/free-photo/woman-sitting-chair-with-abdominal-pain-pressing-her-hand-her-stomach_1150-26005.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Interstitial Cystitis: The Painful Bladder Syndrome",
+    "subtitle": "Managing chronic bladder pain and urgency",
+    "description": "Interstitial cystitis causes persistent bladder discomfort without infection that can devastate quality of life. This article explains the theories behind this complex condition including epithelial barrier defects. Readers will learn about the characteristic symptoms of pelvic pain relieved by voiding and extreme urinary frequency. We cover diagnostic cystoscopy findings and the potassium sensitivity test. Treatment approaches range from dietary modifications to bladder instillations and neuromodulation. The piece provides a comprehensive list of bladder irritants to avoid and stress management techniques. Special sections address overlapping conditions like vulvodynia and pelvic floor dysfunction.",
+    "date": "03-09-2024",
+    "category": "Urinary Tract Disorders"
+  },
+  {
+    "id": 37,
+    "image": "https://img.freepik.com/free-photo/young-male-t-shirt-coughing-while-holding-hand-chest-looking-unwell-front-view_176474-84352.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Bronchiectasis: The Damaged Airways",
+    "subtitle": "Living with chronic bronchial dilation",
+    "description": "Bronchiectasis creates abnormally widened airways that accumulate mucus and become infected. This article explains how past infections, immune defects, or genetic conditions lead to this structural damage. Readers will learn about the hallmark symptoms of daily purulent sputum production and recurrent infections. We cover diagnostic CT findings and sputum cultures to guide antibiotic therapy. Treatment focuses on airway clearance techniques, mucolytics, and prompt infection treatment. The piece provides detailed instructions for postural drainage and oscillatory devices. Special sections address nontuberculous mycobacterial infections and the importance of vaccination in management.",
+    "date": "18-11-2024",
+    "category": "Asthma"
+  },
+  {
+    "id": 38,
+    "image": "https://img.freepik.com/premium-photo/indian-man-with-diarrhea-symptoms_665346-56941.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Gastritis: The Inflamed Stomach Lining",
+    "subtitle": "From heartburn to serious erosion",
+    "description": "Gastritis involves stomach lining inflammation that ranges from mild irritation to ulcer-forming damage. This article explains how H. pylori infection, NSAIDs, alcohol, and stress contribute to this condition. Readers will learn to recognize symptoms like gnawing epigastric pain, nausea, and early satiety. We cover diagnostic endoscopy findings and noninvasive H. pylori testing. Treatment approaches include acid suppressants, antibiotics for H. pylori, and mucosal protectants. The piece provides dietary recommendations and lifestyle modifications to promote healing. Special sections address atrophic gastritis complications like B12 deficiency and gastric cancer risk.",
+    "date": "07-01-2024",
+    "category": "Gastroenterology"
+  },
+  {
+    "id": 39,
+    "image": "https://img.freepik.com/premium-photo/allergy-skin-prick-testing_798657-16825.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Dermatographia: Skin That Writes Its Own Story",
+    "subtitle": "Understanding physical urticaria conditions",
+    "description": "Dermatographia causes raised red marks where skin is lightly scratched, like writing on a whiteboard. This article explains this exaggerated histamine response and related physical urticarias triggered by cold, pressure, or vibration. Readers will learn about the harmless but bothersome nature of these conditions and their frequent association with other allergies. We cover simple diagnostic tests doctors use to confirm dermatographism. Treatment focuses on antihistamine regimens and avoiding unnecessary scratching. The piece provides practical advice for managing symptoms during daily activities and sleep. Special sections address this condition in children and its occasional link to mast cell disorders.",
+    "date": "24-07-2024",
+    "category": "Eczema"
+  },
+  {
+    "id": 40,
+    "image": "https://img.freepik.com/free-photo/senior-man-spectacles-presses-hand-chest-has-heart-attack-suffers-from-unbearable-pain-closes-eyes-wears-optical-glasses-poses-against-blue-wall_273609-44292.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Pleurisy: The Stabbing Chest Pain",
+    "subtitle": "When breathing becomes painful",
+    "description": "Pleurisy creates sharp chest pain with each breath due to inflamed lung membranes. This article explains how infections, autoimmune diseases, and pulmonary emboli can cause this condition. Readers will learn to recognize the characteristic pain pattern worsened by deep breathing and coughing. We cover diagnostic approaches including auscultation for friction rubs and imaging to identify underlying causes. Treatment focuses on addressing the root problem while managing pain with NSAIDs and sometimes nerve blocks. The piece provides breathing techniques to minimize discomfort during recovery. Special sections address differentiating pleurisy from cardiac pain and when to seek emergency evaluation.",
+    "date": "09-10-2024",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 41,
+    "image": "https://img.freepik.com/premium-photo/close-up-young-woman-looking-away-home_1048944-7055926.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Mono: The Kissing Disease Explained",
+    "subtitle": "Understanding infectious mononucleosis and recovery",
+    "description": "Mononucleosis, caused by the Epstein-Barr virus, is notorious for causing extreme fatigue in teenagers and young adults. This article explains the typical 2-4 week incubation period and classic symptoms like sore throat, fever, and swollen lymph nodes. Readers will learn about the 'mono spot' test and why spleen enlargement requires activity restrictions. We cover supportive care strategies including hydration, rest, and avoiding contact sports. The piece provides realistic expectations for the prolonged recovery period and when to expect full energy levels to return. Special sections address mono complications like hepatitis and secondary infections.",
+    "date": "15-08-2024",
+    "category": "Fever"
+  },
+  {
+    "id": 42,
+    "image": "https://img.freepik.com/premium-photo/sick-millennial-lady-white-top-suffering-from-abdominal-pain_116547-80769.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Diverticulitis: When Pouches Become Problematic",
+    "subtitle": "Managing inflamed colon diverticula",
+    "description": "Diverticulitis occurs when small pouches in the colon wall become infected or inflamed. This article explains the difference between asymptomatic diverticulosis and acute diverticulitis. Readers will learn to recognize the classic left lower quadrant abdominal pain, fever, and bowel changes. We cover diagnostic CT imaging findings and the criteria for hospital admission versus outpatient treatment. Treatment approaches range from clear liquid diets and antibiotics to surgical resection for recurrent cases. The piece provides dietary recommendations for both acute episodes and long-term prevention. Special sections address complications like abscess formation and perforation requiring emergency care.",
+    "date": "22-09-2024",
+    "category": "Gastroenterology"
+  },
+  {
+    "id": 43,
+    "image": "https://img.freepik.com/premium-photo/young-man-applying-cold-compress-leg-home_392895-16725.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Bursitis: The Overused Joint Cushion",
+    "subtitle": "Relieving inflamed fluid sacs near joints",
+    "description": "Bursitis causes localized pain and swelling where repetitive motion irritates these protective fluid-filled sacs. This article focuses on common locations like shoulders (subacromial), elbows (olecranon), and hips (trochanteric). Readers will learn about distinguishing features from arthritis or tendonitis. We cover diagnostic approaches including physical exam maneuvers and sometimes ultrasound. Treatment includes rest, ice, NSAIDs, and occasionally corticosteroid injections. The piece provides specific exercises to restore mobility after acute symptoms subside. Special sections address septic bursitis requiring antibiotics and chronic cases needing surgical bursectomy.",
+    "date": "05-11-2024",
+    "category": "Arthritis"
+  },
+  {
+    "id": 44,
+    "image": "https://img.freepik.com/premium-vector/d-flat-vector-conceptual-illustration-kidney-stones-disease-urinary-system-disorders_109064-7262.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Pyelonephritis: Kidney Infection Dangers",
+    "subtitle": "Recognizing and treating upper UTIs",
+    "description": "Pyelonephritis represents a serious kidney infection that often starts as a bladder infection. This article explains the concerning symptoms like flank pain, high fever, and nausea that distinguish it from simple cystitis. Readers will learn about urinalysis findings and blood tests that indicate systemic infection. We cover appropriate antibiotic regimens and when hospitalization with IV therapy is necessary. The piece emphasizes the importance of complete treatment to prevent kidney scarring. Special sections address pyelonephritis in pregnancy, diabetics, and those with recurrent infections.",
+    "date": "18-12-2024",
+    "category": "Urinary Tract Disorders"
+  },
+  {
+    "id": 45,
+    "image": "https://img.freepik.com/free-photo/front-view-woman-using-nasal-spray_23-2149647576.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Poison Ivy: The Itchy Outdoor Menace",
+    "subtitle": "Identifying and treating allergic plant reactions",
+    "description": "Poison ivy, oak, and sumac cause intensely itchy rashes in sensitive individuals. This article explains how urushiol oil triggers the allergic reaction and the 12-72 hour delayed onset. Readers will learn proper washing techniques to prevent spread after exposure. We cover treatment options from cool compresses and oatmeal baths to prescription steroids for severe cases. The piece provides guidance on when medical attention is needed for facial/genital involvement or infected scratches. Special sections address outdoor workers' prevention strategies and the myth of scratching spreading the rash.",
+    "date": "07-05-2024",
+    "category": "Eczema"
+  },
+  {
+    "id": 46,
+    "image": "https://img.freepik.com/premium-photo/young-woman-feeling-abdominal-ulcer-her-tummy-menstrual-pain-home-3d-animation-with-red-pulsating-sore-zone-problem-area_299057-3332.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Pancreatitis: The Agonizing Abdominal Emergency",
+    "subtitle": "Acute and chronic pancreatic inflammation",
+    "description": "Pancreatitis causes severe upper abdominal pain that often requires hospitalization. This article differentiates between acute gallstone-related cases and chronic alcohol-induced disease. Readers will learn about diagnostic blood tests (lipase/amylase) and CT findings. We cover NPO (nothing by mouth) treatment approaches and pain management strategies. The piece provides dietary guidance for recovery and prevention of recurrent attacks. Special sections address complications like pseudocyst formation and the risk of developing diabetes with chronic disease.",
+    "date": "23-02-2024",
+    "category": "Gastroenterology"
+  },
+  {
+    "id": 47,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-moses-illustration_52683-105236.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Lupus: The Great Imitator",
+    "subtitle": "Understanding systemic autoimmune disease",
+    "description": "Systemic lupus erythematosus (SLE) can affect nearly any organ system with confusing symptoms. This article explains the classic malar rash, photosensitivity, and joint pain patterns. Readers will learn about the ANA test and other immunological markers used for diagnosis. We cover treatment approaches from antimalarials to immunosuppressants for severe cases. The piece provides sun protection strategies and infection prevention advice. Special sections address lupus nephritis monitoring and pregnancy considerations for lupus patients.",
+    "date": "12-04-2024",
+    "category": "Arthritis"
+  },
+  {
+    "id": 48,
+    "image": "https://img.freepik.com/premium-photo/painful-neck-concept-sore-throat-pharyngitis-laryngitisetc-ai-generated_778980-2123.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Strep Throat: More Than Just a Sore Throat",
+    "subtitle": "Identifying and treating streptococcal infections",
+    "description": "Strep throat requires antibiotic treatment to prevent rheumatic fever complications. This article explains the Centor criteria doctors use to estimate strep probability. Readers will learn about rapid antigen tests and throat cultures for definitive diagnosis. We cover appropriate antibiotic choices and the importance of completing the full course. The piece provides symptom relief strategies while waiting for antibiotics to work. Special sections address scarlet fever rash and post-streptococcal conditions like glomerulonephritis.",
+    "date": "30-06-2024",
+    "category": "Cold and cough"
+  },
+  {
+    "id": 49,
+    "image": "https://img.freepik.com/premium-photo/close-up-bee-nest_1048944-17978262.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Hives: The Mysterious Welts",
+    "subtitle": "Acute and chronic urticaria management",
+    "description": "Hives (urticaria) appear as itchy red welts that come and go unpredictably. This article explains how histamine release causes these temporary skin changes. Readers will learn about acute allergic reactions versus chronic spontaneous urticaria lasting weeks. We cover diagnostic approaches to identify triggers through elimination and sometimes allergy testing. Treatment focuses on antihistamines and avoiding known triggers when possible. The piece provides guidance on when to seek emergency care for accompanying swelling or breathing difficulty. Special sections address physical urticarias triggered by heat, cold, or pressure.",
+    "date": "17-03-2024",
+    "category": "Eczema"
+  },
+  {
+    "id": 50,
+    "image": "https://img.freepik.com/premium-photo/men-with-hepatitis-fatty-liver-problem_46527-1807.jpg?uid=R130411112&semt=ais_hybrid&w=740",
+    "title": "Enlarged Liver: When Size Matters",
+    "subtitle": "Understanding hepatomegaly causes and evaluation",
+    "description": "An enlarged liver (hepatomegaly) often signals underlying metabolic or inflammatory conditions. This article explains how doctors detect liver enlargement through physical exam and imaging. Readers will learn about common causes like fatty liver disease, hepatitis, and congestive heart failure. We cover the diagnostic workup including blood tests, ultrasound, and sometimes biopsy. The piece provides guidance on monitoring for concerning symptoms like jaundice or abdominal distension. Special sections address alcoholic liver disease progression and storage disorders causing hepatomegaly in children.",
+    "date": "09-07-2024",
+    "category": "Liver Disease"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "All"
+  },
+  {
+    "id": "2",
+    "name": "Digital Thermometer"
+  },
+  {
+    "id": "3",
+    "name": "Blood Pressure Monitor"
+  },
+  {
+    "id": "4",
+    "name": "Pulse Oximeter"
+  },
+  {
+    "id": "5",
+    "name": "First Aid Kit"
+  },
+  {
+    "id": "6",
+    "name": "Nebulizer Machine"
+  },
+  {
+    "id": "7",
+    "name": "Glucometer"
+  }
+]

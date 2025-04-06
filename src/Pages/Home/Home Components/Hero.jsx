@@ -26,7 +26,7 @@ const Hero = () => {
 
   return (
     <>
-      <div className="w-full md:w-10/11 lg:w-9/12 mx-auto">
+      <div className="w-full md:w-10/11 lg:w-9/12 mx-auto py-6 lg:py-10">
         <div className="relative w-full pb-6">
           <div className="flex transition-transform duration-700 ease-in-out rounded-2xl overflow-hidden">
             <AnimatePresence initial={false} custom={currentSlide}>

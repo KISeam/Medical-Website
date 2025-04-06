@@ -17,6 +17,8 @@ import Products from "./Pages/Products/Products.jsx";
 import SingleProduct from "./Components/SingleProduct.jsx";
 import DepartmentsSymptoms from "./Pages/Departments-Symptoms/DepartmentsSymptoms.jsx";
 import AddToCarts from "./Pages/Add To Cart/AddToCarts.jsx";
+import Contact from "./Pages/Contact us/Contact.jsx";
+import Faq from "./Pages/FAQ/Faq.jsx";
 
 const router = createBrowserRouter([
   {
@@ -67,15 +69,15 @@ const router = createBrowserRouter([
         path: "/add_to_cart",
         element: <AddToCarts />,
       },
+      {
+        path: "/faq",
+        element: <Faq />,
+      },
+      {
+        path: "/contact_us",
+        element: <Contact />,
+      },
     ],
-  },
-  {
-    path: "/login",
-    element: <Login />,
-  },
-  {
-    path: "/signup",
-    element: <Signup />,
   },
 ]);
 

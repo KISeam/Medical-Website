@@ -10,6 +10,7 @@ import GetInTouch from "./Home Components/GetInTouch";
 import Blogs from "./Home Components/Blogs";
 import Review from "./Home Components/Review";
 import Hero from "./Home Components/Hero";
+import SomeProducts from "./Home Components/SomeProducts";
 
 const Home = () => {
   useEffect(() => {
@@ -21,6 +22,7 @@ const Home = () => {
       <div>
         <Hero />
         <Achievements />
+        <SomeProducts />
         <Benefits />
         <AvailableSpecialties />
         <BuyMedicines />

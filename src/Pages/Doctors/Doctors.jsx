@@ -59,6 +59,7 @@ const Doctors = () => {
       params.set("category", encodeURIComponent(categoryName));
     }
     setSearchParams(params);
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const handleSearch = (query) => {

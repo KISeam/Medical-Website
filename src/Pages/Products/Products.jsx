@@ -34,6 +34,7 @@ const Products = () => {
 
   const handleCheckboxChange = (categoryName) => {
     setSelectedCategories(categoryName);
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const filteredProducts =

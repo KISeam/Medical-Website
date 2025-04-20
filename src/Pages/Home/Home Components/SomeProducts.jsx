@@ -53,7 +53,7 @@ const SomeProducts = () => {
             </div>
             <div className="flex flex-col gap-6 md:gap-10 lg:gap-12">
               <div className="flex flex-col-reverse lg:flex-row gap-6">
-                <div className="w-full lg:w-1/4">
+                <div className="w-full lg:w-1/4 lg:sticky lg:top-24 lg:self-start lg:overflow-y-auto">
                   <div className="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
                     <h3 className="text-lg font-semibold text-gray-800 bg-gray-50 px-6 py-4 border-b border-gray-200">
                       Categories
@@ -67,9 +67,9 @@ const SomeProducts = () => {
                         >
                           <input
                             type="checkbox"
+                            class="checkbox checkbox-neutral checkbox-sm border-gray-300"
                             checked={selectedCategories.includes(category.name)}
                             onChange={() => handleCheckboxChange(category.name)}
-                            className="w-4 h-4 text-blue-500 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
                           />
                           <span>{category.name}</span>
                         </label>

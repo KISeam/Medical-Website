@@ -77,7 +77,7 @@ const Products = () => {
           </div>
         ) : (
           <div className="flex flex-col-reverse lg:flex-row gap-6">
-            <div className="w-full lg:w-1/4">
+            <div className="w-full lg:w-1/4 lg:sticky lg:top-24 lg:self-start lg:overflow-y-auto">
               <LeftCategory
                 productCategories={productCategories}
                 selectedCategories={selectedCategories}
@@ -92,7 +92,8 @@ const Products = () => {
                 allProducts.length > products.length && (
                   <div className="flex justify-center my-6">
                     <button
-                      onClick={loadMoreProducts}
+                      type="button"
+                      onClick={() => loadMoreProducts()}
                       className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition duration-300 cursor-pointer"
                     >
                       {loading ? "Loading..." : "Load More"}

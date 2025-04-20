@@ -31,20 +31,20 @@ const LeftCategory = ({
         </h3>
         <div className="flex flex-col gap-2 p-4">
           {productCategories.map((category) => (
-              <label
-                key={category.id}
-                className="flex items-center gap-3 text-sm text-gray-700 hover:text-blue-600 px-4 py-2 rounded-md hover:bg-gray-50 transition-colors duration-200 cursor-pointer"
-                onClick={() => handleCheckboxChange(category.name)}
-              >
-                <input
-                  type="checkbox"
-                  checked={selectedCategories.includes(category.name)}
-                  onChange={() => handleCheckboxChange(category.name)}
-                  className="w-4 h-4 text-blue-500 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
-                />
-                <span>{category.name}</span>
-              </label>
-            ))}
+            <label
+              key={category.id}
+              className="flex items-center gap-3 text-sm text-gray-700 hover:text-blue-600 px-4 py-2 rounded-md hover:bg-gray-50 transition-colors duration-200 cursor-pointer"
+              onClick={() => handleCheckboxChange(category.name)}
+            >
+              <input
+                type="checkbox"
+                class="checkbox checkbox-neutral checkbox-sm border-gray-300"
+                checked={selectedCategories.includes(category.name)}
+                onChange={() => handleCheckboxChange(category.name)}
+              />
+              <span>{category.name}</span>
+            </label>
+          ))}
         </div>
       </div>
     </div>

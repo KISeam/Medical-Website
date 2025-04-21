@@ -19,7 +19,7 @@ const AvailableSpecialties = () => {
     <>
       <div className="bg-gray-100">
         <div className="py-12">
-          <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
+          <div className="w-11/12 lg:w-9/12 mx-auto">
             <div className="flex flex-col gap-6">
               <div className="space-y-3 text-center lg:text-left">
                 <h3 className="text-blue-500 text-xl md:text-2xl font-medium">

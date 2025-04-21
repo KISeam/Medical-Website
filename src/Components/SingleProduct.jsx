@@ -64,7 +64,7 @@ const SingleProduct = () => {
   return (
     <>
       <div className="py-12">
-        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
+        <div className="w-11/12 lg:w-9/12 mx-auto">
           <div className="flex flex-col gap-6 md:gap-10 lg:gap-12">
             <div className="w-full lg:max-w-4xl 2xl:max-w-5xl mx-auto">
               <div>

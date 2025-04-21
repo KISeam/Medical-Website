@@ -10,7 +10,7 @@ const HomeDiagnostics = () => {
   return (
     <>
       <div className="py-12">
-        <div className="w-full md:w-11/12 lg:w-6/12 mx-auto">
+        <div className="w-11/12 lg:w-6/12 mx-auto">
           <div className="space-y-10">
             <img src="/Images/8.jpg" alt="" />
             <div className="space-y-2 text-center">

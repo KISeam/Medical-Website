@@ -6,7 +6,7 @@ const BuyMedicines = () => {
   return (
     <>
       <div className="py-12 border-b border-gray-400">
-        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
+        <div className="w-11/12 lg:w-9/12 mx-auto">
           <div className="flex flex-col lg:flex-row items-center justify-between gap-12 md:gap-16 lg:gap-20">
             <div className="w-full lg:w-[50%] 2xl:w-[40%]">
               <img src="/Images/5.jpg" alt="" />

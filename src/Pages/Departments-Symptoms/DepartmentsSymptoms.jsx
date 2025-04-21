@@ -17,7 +17,7 @@ const DepartmentsSymptoms = () => {
   return (
     <>
       <div className="bg-gray-100 py-12">
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
           <div className="space-y-6">
             <HeadDetails
               title={"Choose a"}

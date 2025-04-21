@@ -38,7 +38,7 @@ const Header = () => {
           isNavbarVisible ? "translate-y-0" : "-translate-y-full"
         }`}
       >
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto py-2">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto py-2">
           <div className="navbar">
             <div className="navbar-start">
               <div className="dropdown space-x-1">

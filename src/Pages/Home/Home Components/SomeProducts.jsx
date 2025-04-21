@@ -32,7 +32,7 @@ const SomeProducts = () => {
   return (
     <>
       <div>
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto py-12">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto py-12">
           <div className="space-y-6">
             <div className="flex flex-wrap justify-center lg:justify-between items-end gap-6 text-center lg:text-left">
               <div className="w-full lg:w-[50%] 2xl:w-[60%] space-y-4">

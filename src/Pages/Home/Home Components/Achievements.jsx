@@ -4,7 +4,7 @@ const Achievements = () => {
   return (
     <>
       <div className="bg-[#EEF7FF] py-12">
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
           <div className="flex flex-wrap items-center justify-center gap-6 md:gap-x-10 md:gap-y-8 lg:gap-x-16 lg:gap-y-12 text-center">
             <div className="flex flex-col items-center gap-6 w-56">
               <div className="bg-white p-5 rounded-full w-fit">

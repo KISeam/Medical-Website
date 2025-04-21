@@ -6,7 +6,7 @@ const PremiumMember = () => {
   return (
     <>
       <div className="bg-[#EEF7FF] py-12">
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
           <div className="flex 2xl:flex-row flex-col items-start 2xl:items-center justify-between gap-12 md:gap-16 lg:gap-20">
             <div className="w-full lg:w-[60%] 2xl:w-[40%]">
               <img src="/Images/6.jpg" alt="" />

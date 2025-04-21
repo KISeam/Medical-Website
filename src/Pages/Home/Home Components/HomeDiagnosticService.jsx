@@ -6,7 +6,7 @@ const HomeDiagnosticService = () => {
   return (
     <>
       <div className="py-12">
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
           <div className="flex 2xl:flex-row flex-col-reverse items-start 2xl:items-center justify-between gap-12 md:gap-16 lg:gap-20">
             <div className="w-full 2xl:w-[60%] space-y-6 text-center lg:text-left">
               <h3 className="text-blue-500 text-lg md:text-xl 2xl:text-2xl font-medium">

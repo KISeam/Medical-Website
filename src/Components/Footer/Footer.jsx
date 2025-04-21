@@ -13,7 +13,7 @@ const Footer = () => {
     <>
       <div>
         <footer className="bg-[url('/Images/FooterBGImg.png')] text-white py-10">
-          <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto grid grid-cols-1 md:grid-cols-2 justify-between gap-20">
+          <div className="w-full md:w-11/12 lg:w-9/12 mx-auto grid grid-cols-1 md:grid-cols-2 justify-between gap-20">
             <div>
               <Link to="/">
                 <h2 className="text-2xl font-bold flex items-center">

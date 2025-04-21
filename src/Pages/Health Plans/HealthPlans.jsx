@@ -9,7 +9,7 @@ const HealthPlans = () => {
   return (
     <>
       <div className="py-12">
-        <div className="w-11/12 md:w-10/11 lg:w-9/12 mx-auto">
+        <div className="w-full md:w-11/12 lg:w-9/12 mx-auto">
           <div className="space-y-10">
             <h1 className="text-center text-2xl lg:text-4xl text-black font-semibold">
               DocTime Health Care and Protect Plans
